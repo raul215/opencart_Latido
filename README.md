@@ -31,8 +31,8 @@ If you are not sure about your issue, it is always best to ask the community on 
 
 **Important!**
 
-- If your bug report is not related to the core code (such as a 3rd party module or your server configuration) then the issue will be closed without a reason. You must contact the extension developer, use the forum or find a commercial partner to resolve a 3rd party code issue.
-- If you would like to report a serious security bug please PM an OpenCart moderator/administrator on the forum. Please do not report concept/ideas/unproven security flaws - all security reports are taken seriously but you must include the EXACT details steps to reproduce it. Please DO NOT post security flaws in a public location.
+-   If your bug report is not related to the core code (such as a 3rd party module or your server configuration) then the issue will be closed without a reason. You must contact the extension developer, use the forum or find a commercial partner to resolve a 3rd party code issue.
+-   If you would like to report a serious security bug please PM an OpenCart moderator/administrator on the forum. Please do not report concept/ideas/unproven security flaws - all security reports are taken seriously but you must include the EXACT details steps to reproduce it. Please DO NOT post security flaws in a public location.
 
 ## How to contribute
 
@@ -46,8 +46,8 @@ Your code standards should match the [OpenCart coding standards](https://github.
 
 ### Windows OS
 
-* make sure you have Docker Desktop installed on your Local Machine
-* in the terminal in the file containing the projects run `docker-compose up -d`
+-   make sure you have Docker Desktop installed on your Local Machine
+-   in the terminal in the file containing the projects run `docker-compose up -d`
 
 ## Versioning
 
@@ -65,7 +65,7 @@ A PATCH version is when a fix is added, it should be considered safe to update p
 
 OpenCart will announce to developers 1 week prior to public release of FEATURE versions, this is to allow for testing of their own modules for compatibility. For bigger releases (ones that contain many core changes, features and fixes) an extended period will be considered following an announced release candidate (RC). Patch versions (which are considered safe to update with) may have a significantly reduced developer release period.
 
-The master branch will always contain an "_rc" postfix of the next intended version. The next "_rc" version may change at any time.
+The master branch will always contain an "\_rc" postfix of the next intended version. The next "\_rc" version may change at any time.
 
 Developer release source code will not change once tagged.
 
@@ -79,9 +79,9 @@ To receive developer notifications about release information, sign up to the new
 
 ## Links
 
-- [OpenCart homepage](https://www.opencart.com/)
-- [OpenCart forums](https://forum.opencart.com/)
-- [OpenCart blog](https://www.opencart.com/index.php?route=feature/blog)
-- [How to documents](http://docs.opencart.com/en-gb/introduction/)
-- [Newsletter](https://newsletter.opencart.com/h/r/B660EBBE4980C85C)
-- [Discussions](https://github.com/opencart/opencart/discussions)
+-   [OpenCart homepage](https://www.opencart.com/)
+-   [OpenCart forums](https://forum.opencart.com/)
+-   [OpenCart blog](https://www.opencart.com/index.php?route=feature/blog)
+-   [How to documents](http://docs.opencart.com/en-gb/introduction/)
+-   [Newsletter](https://newsletter.opencart.com/h/r/B660EBBE4980C85C)
+-   [Discussions](https://github.com/opencart/opencart/discussions)
